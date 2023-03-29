@@ -1,0 +1,177 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+background-image: url(./images/bg2.png);
+background-repeat: no-repeat;
+width: 100%;
+
+}
+
+nav{
+display: flex;
+align-items: center;
+width: 95%;
+justify-content: space-between;
+height: 13vh;
+
+background: #050505f6;
+
+
+
+}
+nav ul{
+display: flex;
+align-items: center;
+
+
+}
+nav ul li{
+list-style: none;
+font-weight: 400;
+margin-right: 15%;
+color: white;
+position: absolute;
+right: 100px;
+}
+
+
+
+.content{
+align-items: center;
+
+position:relative;
+margin: 330px;
+height: 15px;
+
+
+
+}
+.content button{
+border-radius: 10px;
+background-color: #b30a9f;
+padding: 15px 20px;
+color: white;
+font-weight: 800;
+font-style: normal;
+}
+nav button{
+border-radius: 10px;
+background-color: #b30a9f;
+padding: 15px 20px;
+color: white;
+}
+.content h1{
+color: white;
+font-size: 70px;
+width: 600px;
+position: absolute;
+bottom: 65px;
+left: 15px;
+
+}
+.content p{
+color: white;
+font-size: 25px;
+width: 600px;
+position: absolute;
+bottom: 35px;
+left: 75px;
+}
+nav{
+display: flex;
+align-items: center;
+
+justify-content: space-between;
+
+
+background: #050505f6;
+
+
+
+}
+nav ul{
+display: flex;
+align-items: center;
+
+
+}
+nav ul li{
+list-style: none;
+font-weight: 400;
+margin-right: 15%;
+color: white;
+position: relative;
+right: 400px;
+
+}
+main{
+
+align-items: center;
+
+justify-content: center;
+width: 100%;
+
+
+}
+.logo{
+position: relative;
+left:10px;
+}
+main{
+
+align-items: center;
+
+justify-content: center;
+
+
+}
+.content{
+align-items: center;
+
+position:relative;
+margin: 330px;
+height: 15px;
+
+
+
+}
+.content button{
+border-radius: 10px;
+background-color: #b30a9f;
+padding: 12px 23px;
+color: white;
+font-weight: 800;
+font-style: normal;
+border: none;
+position: relative;
+left: 200px;
+font-size: 20px;
+}
+nav button{
+border-radius: 10px;
+background-color: #b30a9f;
+padding: 10px 20px;
+color: white;
+position: relative;
+right: 130px;
+}
+.content h1{
+color: white;
+font-size: 70px;
+width: 700px;
+position: absolute;
+bottom: 93px;
+left: 25px;
+
+}
+.content p{
+color: white;
+
+width: 600px;
+position: absolute;
+bottom: 35px;
+left: 75px;
+}
